@@ -1,0 +1,47 @@
+header{
+text-align: left;
+color: blue;
+}
+ 
+header .judul:hover{
+    font-size: 25pt;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+body{
+    background-color: white;
+}
+
+.nav{
+    background-color: royalblue;
+    padding: 10px;
+}
+
+.new{
+    padding: 10px;
+    color: white;
+}
+.new:hover{
+    cursor: pointer;
+    background-color: rosybrown;
+}
+
+.aktif{
+    background-color: burlywood;
+}
+
+.home{
+    background-color: #F5F5DC;
+    padding: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 10px;
+}
+
+.es{
+    display: none;
+    background-color: #F5F5DC;
+    padding: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 10px;
+}
